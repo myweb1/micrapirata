@@ -1,0 +1,11 @@
+#divg{
+    font-size: 50px !important ;
+    color: gold;
+}
+body {
+    background-image: url("TIERRA.jpg") ;
+}
+canvas {
+    background-image: url("fondo.jpg");
+    background-size: cover;
+}
